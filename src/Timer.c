@@ -3,7 +3,7 @@
 =======
 // Configuration registers 
 // Sysclock used is 60MHz
-
+// pbclock is 30MHz
 >>>>>>> 31b9c35f0a9df1821d577535d61a1db11f6dc049
 
 #pragma config DEBUG =      OFF
