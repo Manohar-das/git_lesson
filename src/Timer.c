@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 =======
 // Configuration registers 
-
+// Sysclock used is 60MHz
 
 >>>>>>> 31b9c35f0a9df1821d577535d61a1db11f6dc049
 
