@@ -1,4 +1,10 @@
 // Changes in Git hub V1
+<<<<<<< HEAD
+=======
+// Configuration registers 
+
+
+>>>>>>> 31b9c35f0a9df1821d577535d61a1db11f6dc049
 
 #pragma config DEBUG =      OFF
 #pragma config JTAGEN =     OFF
