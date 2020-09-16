@@ -1,8 +1,5 @@
 // Changes in Git hub V1
 
-
-
-
 #pragma config DEBUG =      OFF
 #pragma config JTAGEN =     OFF
 #pragma config ICESEL =     ICS_PGx2
